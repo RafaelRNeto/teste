@@ -1,5 +1,7 @@
 puclic class TesteComDouglas{
-	class teste(){
-	
+	class Teste2(){
+		public Teste2(){
+			String n = "eai";
+		}
 	}
 }
